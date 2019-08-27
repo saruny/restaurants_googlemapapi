@@ -12,3 +12,17 @@ D:\WORK\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfo.cs
 D:\WORK\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorTargetAssemblyInfo.cache
 D:\WORK\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.dll
 D:\WORK\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.pdb
+D:\WORK\restaurants_googlemapapi\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.deps.json
+D:\WORK\restaurants_googlemapapi\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.json
+D:\WORK\restaurants_googlemapapi\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.dev.json
+D:\WORK\restaurants_googlemapapi\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.dll
+D:\WORK\restaurants_googlemapapi\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.pdb
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csprojAssemblyReference.cache
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csproj.CoreCompileInputs.cache
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cache
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cs
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfoInputs.cache
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfo.cs
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorTargetAssemblyInfo.cache
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.dll
+D:\WORK\restaurants_googlemapapi\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.pdb
