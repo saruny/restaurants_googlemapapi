@@ -1,4 +1,7 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 {
   "name": "restaurants",
   "version": "0.1.0",
@@ -45,6 +48,7 @@
     "last 2 versions"
   ]
 }
+<<<<<<< Updated upstream
 =======
 {
   "name": "restaurants",
@@ -92,4 +96,6 @@
     "last 2 versions"
   ]
 }
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
